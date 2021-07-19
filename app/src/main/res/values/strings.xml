@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_mom">Happy Birthday, Mom!</string>
+    <string name="love_kieran">Love, Kieran</string>
+    <string name="birthday">BIRTHDAY</string>
+    <string name="happy">HAPPY</string>
+    <string name="mom">MOM</string>
+</resources>
